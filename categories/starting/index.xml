@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starting on Senador | Nombre Apellido</title>
+    <link>https://jsur.github.io/hugotest/categories/starting/</link>
+    <description>Recent content in Starting on Senador | Nombre Apellido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://jsur.github.io/hugotest/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog post no 1</title>
+      <link>https://jsur.github.io/hugotest/blog/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://jsur.github.io/hugotest/blog/creating-a-new-theme/</guid>
+      <description>Introduction Proin congue sit amet nisl in dapibus. Phasellus condimentum nisl sit amet bibendum finibus. Donec sapien risus, viverra at felis eget, dictum congue odio. Sed et mauris non quam tincidunt luctus. Duis non nunc vel arcu hendrerit vehicula eu eu nulla. Cras id rhoncus dolor. Nulla et egestas urna. Nulla luctus metus vel quam scelerisque sodales. In gravida tempus interdum.
+Integer ultrices facilisis pulvinar. Aliquam euismod elit ut volutpat facilisis.</description>
+    </item>
+    
+  </channel>
+</rss>

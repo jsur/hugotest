@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudo on Senador | Nombre Apellido</title>
+    <link>https://jsur.github.io/hugotest/categories/pseudo/</link>
+    <description>Recent content in Pseudo on Senador | Nombre Apellido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://jsur.github.io/hugotest/categories/pseudo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog post 2</title>
+      <link>https://jsur.github.io/hugotest/blog/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://jsur.github.io/hugotest/blog/hugo-is-for-lovers/</guid>
+      <description>Proin congue sit amet nisl in dapibus. Phasellus condimentum nisl sit amet bibendum finibus. Donec sapien risus, viverra at felis eget, dictum congue odio. Sed et mauris non quam tincidunt luctus. Duis non nunc vel arcu hendrerit vehicula eu eu nulla. Cras id rhoncus dolor. Nulla et egestas urna. Nulla luctus metus vel quam scelerisque sodales. In gravida tempus interdum.
+Integer ultrices facilisis pulvinar. Aliquam euismod elit ut volutpat facilisis. Curabitur suscipit, lacus ac vulputate tempor, neque nulla fringilla ipsum, eu posuere ante nisi nec dolor.</description>
+    </item>
+    
+  </channel>
+</rss>
